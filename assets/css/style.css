@@ -85,6 +85,9 @@ p {
     header h1 {
         font-size: 40px !important;
     }
+    .content-info img {
+        width: 100% !important;
+    }
 }
 
 /* -------------------- header code start */
